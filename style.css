@@ -1,0 +1,22 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    /* visit fonts.google.com for text fonts */
+    font-family: 'Nunito', sans-serif;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+#container
+{
+    height: 100vh;
+    width: 100%;
+    background: #000;
+    overflow-y: auto;
+}
+#container p
+{
+    color: rgb(49,225,49);
+    font-size: 25px;
+    line-height: 25px;
+}
